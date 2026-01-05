@@ -1,0 +1,7 @@
+{
+  "name": "Council AI",
+  "description": "An elite AI-powered industrial design workstation where five specialist agents collaborate to refine your concepts into market-ready products.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
